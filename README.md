@@ -1,10 +1,10 @@
-📌 **C | C++ | Python | SQL | PHP | Java | JavaScript**
+📌C  **|** C++  **|** Python **|** SQL **|** PHP **|** Java **|** JavaScript
 
-🛠️ **PyTorch | Ultralytics | Docker | Angular | Flutter | Git | MongoDB**
+🛠️ PyTorch **|** Ultralytics **|** Docker **|** Angular **|** Flutter **|** Git **|** MongoDB
 
-🌍 Interested in **SW engineering | AI and Computer Vision** | **Research**
+🌍 Interested in SW engineering **|** AI and Computer Vision **|** Research
 
-⚙️ Learning **Kotlin | MLOps | FastAPI | MLflow**
+⚙️ Learning Kotlin **|** MLOps **|** FastAPI **|** MLflow
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrearsss&show_icons=true&theme=github_dark)
 -->
