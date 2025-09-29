@@ -1,4 +1,8 @@
-## Hi there 👋
+📌 C, C++, Python, SQL, PHP, JavaScript | AI and Computer Vision Research
+
+⚙️ Learning Kotlin, Docker, MLOps
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearsss&size_weight=0.6&count_weight=0.4)
 
 <!--
 **andrearsss/andrearsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
