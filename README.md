@@ -6,4 +6,4 @@
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrearsss&show_icons=true&theme=github_dark)
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearsss&layout=compact&size_weight=0.6&count_weight=0.4&theme=github_dark)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=andrearsss&layout=compact&size_weight=0.6&count_weight=0.4&theme=github_dark)
